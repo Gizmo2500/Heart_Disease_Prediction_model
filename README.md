@@ -65,3 +65,7 @@ Data Dictionary (heart-disese.csv)
 `thal`: [normal; fixed defect; reversible defect]
 
 `target`: the predicted attribute
+
+## How to setup environment
+
+Use Anaconda or Miniconda to setup the ./env folder and use the `environment.yml` file to install the required packages.

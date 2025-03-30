@@ -39,16 +39,29 @@ Data Dictionary (heart-disese.csv)
 **Attribues used**:
 
 `age` (Age of the patient in years)
+
 `sex` (Male/Female)
+
 `cp` chest pain type ([typical angina, atypical angina, non-anginal, asymptomatic])
+
 `trestbps` resting blood pressure (resting blood pressure (in mm Hg on admission to the hospital))
+
 `chol` (serum cholesterol in mg/dl)
+
 `fbs` (if fasting blood sugar > 120 mg/dl)
+
 `restecg` (resting electrocardiographic results) -- Values: [normal, stt abnormality, lv hypertrophy]
+
 `thalach`: maximum heart rate achieved
+
 `exang`: exercise-induced angina (True/ False)
+
 `oldpeak`: ST depression induced by exercise relative to rest
+
 `slope`: the slope of the peak exercise ST segment
+
 `ca`: number of major vessels (0-3) colored by fluoroscopy
+
 `thal`: [normal; fixed defect; reversible defect]
+
 `target`: the predicted attribute
